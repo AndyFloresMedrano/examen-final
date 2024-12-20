@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\compiladores\\AnlizadorSintactico1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4672CA0E-84CD-4030-87B6-418AF796CDED}|AnlizadorSintactico1\\AnlizadorSintactico1.csproj|d:\\compiladores\\anlizadorsintactico1\\anlizadorsintactico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4672CA0E-84CD-4030-87B6-418AF796CDED}|AnlizadorSintactico1\\AnlizadorSintactico1.csproj|solutionrelative:anlizadorsintactico1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4672CA0E-84CD-4030-87B6-418AF796CDED}|AnlizadorSintactico1\\AnlizadorSintactico1.csproj|d:\\compiladores\\anlizadorsintactico1\\anlizadorsintactico1\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4672CA0E-84CD-4030-87B6-418AF796CDED}|AnlizadorSintactico1\\AnlizadorSintactico1.csproj|solutionrelative:anlizadorsintactico1\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simbolo.cs",
+              "DocumentMoniker": "D:\\compiladores\\AnlizadorSintactico1\\AnlizadorSintactico1\\Simbolo.cs",
+              "RelativeDocumentMoniker": "AnlizadorSintactico1\\Simbolo.cs",
+              "ToolTip": "D:\\compiladores\\AnlizadorSintactico1\\AnlizadorSintactico1\\Simbolo.cs",
+              "RelativeToolTip": "AnlizadorSintactico1\\Simbolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:20:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\compiladores\\AnlizadorSintactico1\\AnlizadorSintactico1\\Program.cs",
+              "RelativeDocumentMoniker": "AnlizadorSintactico1\\Program.cs",
+              "ToolTip": "D:\\compiladores\\AnlizadorSintactico1\\AnlizadorSintactico1\\Program.cs",
+              "RelativeToolTip": "AnlizadorSintactico1\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:12:28.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
